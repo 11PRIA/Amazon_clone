@@ -2,7 +2,7 @@
 
 A responsive Amazon e-commerce website clone built with HTML, CSS, and JavaScript. This project replicates the core design and layout of Amazon's homepage with interactive features and modern styling.
 
-##Live Demo: 
+## Live Demo: 
 🌐 https://gilded-baklava-4e4a69.netlify.app/
 ## 🚀 Features
 
